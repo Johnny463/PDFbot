@@ -1,0 +1,7 @@
+streamlit
+python-dotenv
+fitz
+streamlit-option-menu
+openai
+langchain
+pinecone
