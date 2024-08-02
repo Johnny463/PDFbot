@@ -100,7 +100,7 @@ OPENAI_API_KEY=your_openai_api_key
 ```
 MIT License
 
-Copyright (c) 2024 Muhhamd Junaid
+Copyright (c) 2024 Muhammad Junaid
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
