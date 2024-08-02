@@ -5,9 +5,7 @@ from dotenv import load_dotenv
 import fitz
 import pinecone
 from langchain.embeddings.openai import OpenAIEmbeddings
-from flask import Flask, render_template, request, jsonify
 from langchain.chains.question_answering import load_qa_chain
-from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.vectorstores import Pinecone
 from langchain.llms import OpenAI
 
