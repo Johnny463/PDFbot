@@ -32,7 +32,7 @@ Before running the application, ensure you have the following dependencies insta
 1. Clone the repository
 
 ```bash
-git clone https://github.com/Ironmandeveloper/PDF_Chatbot.git
+git clone https://github.com/Johnny463/PDFbot.git
 cd PDF_Chatbot
 ```
 2. Install the dependencies
